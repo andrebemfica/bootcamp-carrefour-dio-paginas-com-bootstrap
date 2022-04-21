@@ -9,6 +9,8 @@ body {
 
 .quem-somos {
     background-color: rgb(140, 200, 240);
+    justify-content: center;
+    text-align: center;
 }
 
 .margin {
