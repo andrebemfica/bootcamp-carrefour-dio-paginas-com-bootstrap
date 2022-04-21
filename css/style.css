@@ -2,9 +2,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.navbar {
+.barra {
     background-color: rgb(240, 201, 234);
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .quem-somos {
@@ -24,4 +24,19 @@ body {
 .bg-footer {
     background-color: black;
     color: white;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(138, 138, 138);
+    text-decoration: none;
 }
